@@ -8,7 +8,7 @@
 }
 
 body{
-    background-color: rgb(55, 198, 255);
+    background-color: rgb(28, 134, 195);
 }
 
 .container{
@@ -40,7 +40,7 @@ body{
 }
 
 .input-container input[type="button"]{
-    background-color: #3da33d;
+    background-color:  #a33d3d;
     color: #fff;
     font-weight: 700;
     margin-left: 8px;
